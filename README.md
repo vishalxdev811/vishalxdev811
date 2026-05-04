@@ -18,9 +18,13 @@
 
 ## 🚀 Projects
 
-- 🔹 Portfolio Website – (Add your live link)
-- 🔹 Full Stack App – (Add GitHub repo)
-- 🔹 API-based Project – (Add details)
+- 🔹 Responsive Portfolio Website – Live Link: [vishalxdev.netlify.app](https://vishalxdev.netlify.app)
+- 🔹 3D E-Commerce Website – (Under Development)
+- 🔹 AI Companion – (Add GitHub / Live Link)
+- 🔹 Social Platform – (Add GitHub / Live Link)
+- 🔹 Fitness Tracker – (Add GitHub / Live Link)
+- 🔹 Developer Analytics Dashboard – (Add Live Link)
+- 🔹 Expense Tracker – (Add GitHub)
 
 ---
 

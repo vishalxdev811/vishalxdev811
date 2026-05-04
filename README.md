@@ -1,4 +1,4 @@
-<img width="816" height="833" alt="image" src="https://github.com/user-attachments/assets/5f6f3852-fd0e-466f-a9f5-3afd8d729d26" /># 💫 About Me
+# 💫 About Me
 
 🚀 Full-Stack Developer focused on building scalable web applications (UI + Backend)  
 ⚡ Developed multiple projects using React, Node.js, and MongoDB  

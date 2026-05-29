@@ -21,8 +21,8 @@
 
 ## 🚀 Projects
 
-- 🔹 Responsive Portfolio – Live Link: [vishalxdev.netlify.app](https://vishalxdev.netlify.app)
-- 🔹 Digital E-Commerce – Live Link: [digi-hub-olive.vercel.app](https://digi-hub-olive.vercel.app/)
+- 🔹 Responsive Portfolio – Live Link : [vishalxdev.netlify.app](https://vishalxdev.netlify.app)
+- 🔹 Digital E-Commerce – Live Link : [digi-hub-olive.vercel.app](https://digi-hub-olive.vercel.app/)
 - 🔹 AI Companion – (GitHub / Live Link)
 - 🔹 Social Platform – (GitHub / Live Link)
 - 🔹 Fitness Tracker – (GitHub / Live Link)

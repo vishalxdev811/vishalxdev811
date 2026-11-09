@@ -20,15 +20,18 @@
 
 ## 🚀 Projects
 
-- 🔹 Responsive Portfolio – Live Link : [vishalxdev.netlify.app](https://vishalxdev.netlify.app)
-- 🔹 Digital E-Commerce – Live Link : [digi-hub-olive.vercel.app](https://digi-hub-olive.vercel.app/)
-- 🔹 AI Companion – (GitHub / Live Link)
-- 🔹 Social Platform – (GitHub / Live Link)
-- 🔹 Fitness Tracker – (GitHub / Live Link)
-- 🔹 Developer Analytics Dashboard – (GitHub / Live Link)
-- 🔹 Expense Tracker – (GitHub / Live Link)
+## 📊 Data Analytics Projects
+
+🔹 **West Bengal Corporate Intelligence** – Excel Dashboard & Analysis  
+🔹 **Developer Analytics Dashboard** – GitHub Data Visualization  
 
 ---
+
+## 💻 Developer Projects
+
+🔹 **Digital E-Commerce** – [Live Demo](https://digi-hub-olive.vercel.app)  
+🔹 **Social Platform** – GitHub / Live Demo  
+🔹 **Responsive Portfolio** – [Live Demo](https://vishalxdev.netlify.app)
 
 ## 💻 Tech Stack
 

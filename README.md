@@ -1,11 +1,10 @@
-# 💫 About Me
+## 💫 About Me
 
-🚀 Full-Stack Developer focused on building scalable web applications (UI + Backend)  
-⚡ Developed multiple projects using React, Node.js, and MongoDB  
-🧠 Continuously improving system design and backend architecture  
-🔧 Exploring real-world deployment, APIs, and performance optimization  
-💬 Open to discussions on frontend, APIs, and full-stack development 
-
+📊 Aspiring Data Analyst passionate about turning data into meaningful insights  
+💻 Developer with a background in React, Node.js, and MongoDB 
+📈 Exploring data analysis, visualization, and dashboard development  
+🚀 Building practical projects that combine data and technology  
+🤝 Open to opportunities and collaborations in Data Analytics & Development
 ---
 
 ## 🌐 Connect with Me

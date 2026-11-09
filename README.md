@@ -1,7 +1,7 @@
-# 💫 About Me
+## 💫 About Me
 
 📊 Aspiring Data Analyst passionate about turning data into meaningful insights  
-💻 Developer with a background in React, Node.js, and MongoDB 
+💻 Developer with a background in React, Node.js, and MongoDB  
 📈 Exploring data analysis, visualization, and dashboard development  
 🚀 Building practical projects that combine data and technology  
 🤝 Open to opportunities and collaborations in Data Analytics & Development

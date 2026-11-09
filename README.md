@@ -1,4 +1,4 @@
-## 💫 About Me
+# 💫 About Me
 
 📊 Aspiring Data Analyst passionate about turning data into meaningful insights  
 💻 Developer with a background in React, Node.js, and MongoDB 
